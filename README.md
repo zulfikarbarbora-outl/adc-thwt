@@ -4,7 +4,7 @@ Opus 48 kbps previews for the **Karoryfer.TheHatWithThePhat** sample library.
 
 ## About
 
-- **Files**: 300 Opus previews
+- **Files**: 712 Opus previews
 - **Bitrate**: 48 kbps VBR
 - **Container**: Ogg Opus (.opus)
 - **Source**: [`zulfikarbarbora-outl/Karoryfer.TheHatWithThePhat`](https://github.com/zulfikarbarbora-outl/Karoryfer.TheHatWithThePhat)
